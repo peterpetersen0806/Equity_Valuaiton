@@ -131,7 +131,7 @@ This project represents my approach to analysis: rigorous fundamentals, intellec
 
 Contact:
 
-Email: peterthomaspetersen@gmail.com
+Email: peterpetersen0806@gmail.com
 LinkedIn: linkedin.com/in/peter-petersen-49a7182a5
 Disclaimer
 This repository is for educational and portfolio demonstration purposes only. It does not constitute investment advice. Proprietary data and specific investment recommendations have been excluded. All opinions are my own and do not reflect the views of Strategic Global Advisors or any other organization.
